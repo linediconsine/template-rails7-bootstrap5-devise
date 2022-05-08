@@ -14,3 +14,4 @@
  1008  yarn run prepare
  1009  /bin/importmap pin jquery
  1010  ./bin/importmap pin bootstrap
+./bin/importmap pin @hotwired/turbo-rails
