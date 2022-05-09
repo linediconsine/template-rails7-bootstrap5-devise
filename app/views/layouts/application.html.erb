@@ -18,9 +18,11 @@
     <div class="row flex-nowrap">
       <%= render "layouts/sidebar" %>
       <div role="main" class="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">
-        <p class="notice"><%= notice %></p>
-        <p class="alert"><%= alert %></p>
 
+        <div>
+          <p class="notice"><%= notice %></p>
+          <p class="alert"><%= alert %></p>
+        </div>
         <%= yield %>
       </div>
     </div>
