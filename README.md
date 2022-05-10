@@ -1,24 +1,11 @@
-# README
+# A simple boilerplate with the last Ruby on Rails setup.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This template uses :
+- Rails 7
+- Bootstrap 5
+- Devise
 
-Things you may want to cover:
+*Note:* Rails 7 introduced important changes on the JavaScript pipeline.
+Also Devise need multiple patch in order to work as expected.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Have fun
